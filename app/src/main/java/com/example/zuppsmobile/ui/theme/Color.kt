@@ -9,3 +9,8 @@ val Pink80 = Color(0xFFEFB8C8)
 val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
+
+val ZuppsOrange = Color(0xFFEF5A36) // Laranja principal da logo
+val ZuppsBackground = Color(0xFFF8F9FA) // Fundo claro
+val ZuppsSurface = Color(0xFFFFFFFF)
+val ZuppsTextDark = Color(0xFF212529)
